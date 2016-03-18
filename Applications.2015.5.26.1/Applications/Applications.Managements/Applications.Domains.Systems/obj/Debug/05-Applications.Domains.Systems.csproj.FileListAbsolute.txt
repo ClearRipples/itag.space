@@ -1,0 +1,6 @@
+E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Domains.Systems.XML
+E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Domains.Systems.dll
+E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Domains.Systems.pdb
+E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Domains.Systems\obj\Debug\05-Applications.Domains.Systems.csprojResolveAssemblyReference.cache
+E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Domains.Systems\obj\Debug\Applications.Domains.Systems.dll
+E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Domains.Systems\obj\Debug\Applications.Domains.Systems.pdb

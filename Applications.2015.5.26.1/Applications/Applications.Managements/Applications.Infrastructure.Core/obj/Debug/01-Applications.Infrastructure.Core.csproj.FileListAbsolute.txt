@@ -1,0 +1,6 @@
+E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Infrastructure.Core.XML
+E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Infrastructure.Core.dll
+E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Infrastructure.Core.pdb
+E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Infrastructure.Core\obj\Debug\01-Applications.Infrastructure.Core.csprojResolveAssemblyReference.cache
+E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Infrastructure.Core\obj\Debug\Applications.Infrastructure.Core.dll
+E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Infrastructure.Core\obj\Debug\Applications.Infrastructure.Core.pdb

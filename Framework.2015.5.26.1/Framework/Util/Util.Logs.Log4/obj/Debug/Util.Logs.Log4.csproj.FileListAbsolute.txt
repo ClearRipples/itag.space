@@ -1,0 +1,6 @@
+D:\Book\Action\Util\Framework\Release\log4net.XML
+D:\Book\Action\Util\Framework\Release\log4net.dll
+D:\Book\Action\Util\Framework\Release\log4net.pdb
+D:\Book\Action\Util\Framework\Util\Util.Logs.Log4\obj\Debug\Util.Logs.Log4.csprojResolveAssemblyReference.cache
+D:\Book\Action\Util\Framework\Util\Util.Logs.Log4\obj\Debug\log4net.dll
+D:\Book\Action\Util\Framework\Util\Util.Logs.Log4\obj\Debug\log4net.pdb

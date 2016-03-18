@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Applications.Datas.Ef.MySql</name>
+    </assembly>
+    <members>
+        <member name="T:Applications.Datas.Ef.MySql.Mappings.Commons.AreaMap">
+            <summary>
+            映射
+            </summary>
+        </member>
+        <member name="M:Applications.Datas.Ef.MySql.Mappings.Commons.AreaMap.MapTable">
+            <summary>
+            映射表
+            </summary>
+        </member>
+        <member name="P:Applications.Datas.Ef.MySql.Mappings.Commons.AreaMap.IsSupportRowVersion">
+            <summary>
+            是否支持行版本
+            </summary>
+        </member>
+        <member name="T:Applications.Datas.Ef.MySql.Mappings.Commons.DicMap">
+            <summary>
+            字典映射
+            </summary>
+        </member>
+        <member name="M:Applications.Datas.Ef.MySql.Mappings.Commons.DicMap.MapTable">
+            <summary>
+            映射表
+            </summary>
+        </member>
+        <member name="P:Applications.Datas.Ef.MySql.Mappings.Commons.DicMap.IsSupportRowVersion">
+            <summary>
+            是否支持行版本
+            </summary>
+        </member>
+        <member name="T:Applications.Datas.Ef.MySql.Mappings.Commons.IconCategoryMap">
+            <summary>
+            图标分类映射
+            </summary>
+        </member>
+        <member name="M:Applications.Datas.Ef.MySql.Mappings.Commons.IconCategoryMap.MapTable">
+            <summary>
+            映射表
+            </summary>
+        </member>
+        <member name="P:Applications.Datas.Ef.MySql.Mappings.Commons.IconCategoryMap.IsSupportRowVersion">
+            <summary>
+            是否支持行版本
+            </summary>
+        </member>
+        <member name="T:Applications.Datas.Ef.MySql.Mappings.Commons.IconMap">
+            <summary>
+            图标映射
+            </summary>
+        </member>
+        <member name="M:Applications.Datas.Ef.MySql.Mappings.Commons.IconMap.MapTable">
+            <summary>
+            映射表
+            </summary>
+        </member>
+        <member name="P:Applications.Datas.Ef.MySql.Mappings.Commons.IconMap.IsSupportRowVersion">
+            <summary>
+            是否支持行版本
+            </summary>
+        </member>
+        <member name="T:Applications.Datas.Ef.MySql.Mappings.Configs.SystemConfigCategoryMap">
+            <summary>
+            系统配置分类映射
+            </summary>
+        </member>
+        <member name="M:Applications.Datas.Ef.MySql.Mappings.Configs.SystemConfigCategoryMap.MapTable">
+            <summary>
+            映射表
+            </summary>
+        </member>
+        <member name="P:Applications.Datas.Ef.MySql.Mappings.Configs.SystemConfigCategoryMap.IsSupportRowVersion">
+            <summary>
+            是否支持行版本
+            </summary>
+        </member>
+        <member name="T:Applications.Datas.Ef.MySql.Mappings.Configs.SystemConfigMap">
+            <summary>
+            系统配置映射
+            </summary>
+        </member>
+        <member name="M:Applications.Datas.Ef.MySql.Mappings.Configs.SystemConfigMap.MapTable">
+            <summary>
+            映射表
+            </summary>
+        </member>
+        <member name="P:Applications.Datas.Ef.MySql.Mappings.Configs.SystemConfigMap.IsSupportRowVersion">
+            <summary>
+            是否支持行版本
+            </summary>
+        </member>
+        <member name="T:Applications.Datas.Ef.MySql.Mappings.Systems.ApplicationMap">
+            <summary>
+            应用程序映射
+            </summary>
+        </member>
+        <member name="M:Applications.Datas.Ef.MySql.Mappings.Systems.ApplicationMap.MapTable">
+            <summary>
+            映射表
+            </summary>
+        </member>
+        <member name="P:Applications.Datas.Ef.MySql.Mappings.Systems.ApplicationMap.IsSupportRowVersion">
+            <summary>
+            是否支持行版本
+            </summary>
+        </member>
+        <member name="T:Applications.Datas.Ef.MySql.Mappings.Systems.ResourceMap">
+            <summary>
+            资源映射
+            </summary>
+        </member>
+        <member name="M:Applications.Datas.Ef.MySql.Mappings.Systems.ResourceMap.MapTable">
+            <summary>
+            映射表
+            </summary>
+        </member>
+        <member name="P:Applications.Datas.Ef.MySql.Mappings.Systems.ResourceMap.IsSupportRowVersion">
+            <summary>
+            是否支持行版本
+            </summary>
+        </member>
+        <member name="T:Applications.Datas.Ef.MySql.MySqlApplicationUnitOfWork">
+            <summary>
+            MySql应用程序工作单元
+            </summary>
+        </member>
+        <member name="M:Applications.Datas.Ef.MySql.MySqlApplicationUnitOfWork.#cctor">
+            <summary>
+            初始化MySql应用程序工作单元
+            </summary>
+        </member>
+        <member name="M:Applications.Datas.Ef.MySql.MySqlApplicationUnitOfWork.#ctor">
+            <summary>
+            初始化MySql应用程序工作单元
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,308 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Applications.Presentation.Managements.Extensions</name>
+    </assembly>
+    <members>
+        <member name="T:Presentation.BusinessControl`1">
+            <summary>
+            业务控件 - 公共控件
+            </summary>
+            <summary>
+            业务控件
+            </summary>
+        </member>
+        <member name="T:Presentation.IBusinessControl`1">
+            <summary>
+            业务控件
+            </summary>
+        </member>
+        <member name="M:Presentation.IBusinessControl`1.GridColumn">
+            <summary>
+            表格列业务控件
+            </summary>
+        </member>
+        <member name="M:Presentation.IBusinessControl`1.Dic(System.String,System.String,System.String)">
+            <summary>
+            字典控件
+            </summary>
+            <param name="name">控件name属性</param>
+            <param name="code">字典编码</param>
+            <param name="value">字典Id</param>
+        </member>
+        <member name="M:Presentation.IBusinessControl`1.Dic``1(System.Linq.Expressions.Expression{System.Func{`0,``0}},System.String)">
+            <summary>
+            字典控件
+            </summary>
+            <param name="expression">对象属性表达式</param>
+            <param name="code">字典编码</param>
+        </member>
+        <member name="M:Presentation.IBusinessControl`1.Area">
+            <summary>
+            地区控件
+            </summary>
+        </member>
+        <member name="M:Presentation.BusinessControl`1.Dic(System.String,System.String,System.String)">
+            <summary>
+            字典控件
+            </summary>
+            <param name="name">控件name属性</param>
+            <param name="code">字典编码</param>
+            <param name="value">字典Id</param>
+        </member>
+        <member name="M:Presentation.BusinessControl`1.Dic``1(System.Linq.Expressions.Expression{System.Func{`0,``0}},System.String)">
+            <summary>
+            字典控件
+            </summary>
+            <param name="expression">对象属性表达式</param>
+            <param name="code">字典编码</param>
+        </member>
+        <member name="M:Presentation.BusinessControl`1.Area">
+            <summary>
+            地区控件
+            </summary>
+        </member>
+        <member name="M:Presentation.BusinessControl`1.#ctor(System.Web.Mvc.HtmlHelper{`0})">
+            <summary>
+            初始化业务控件
+            </summary>
+            <param name="helper">HtmlHelper</param>
+        </member>
+        <member name="F:Presentation.BusinessControl`1._helper">
+            <summary>
+            HtmlHelper
+            </summary>
+        </member>
+        <member name="M:Presentation.BusinessControl`1.GridColumn">
+            <summary>
+            表格列业务控件
+            </summary>
+        </member>
+        <member name="T:Presentation.GridColumns.BusinessGridColumn`1">
+            <summary>
+            表格列业务控件 - 权限控件
+            </summary>
+            <summary>
+            表格列业务控件 - 公共控件
+            </summary>
+            <summary>
+            表格列业务控件
+            </summary>
+        </member>
+        <member name="T:Presentation.IBusinessGridColumn`1">
+            <summary>
+            表格列业务控件
+            </summary>
+        </member>
+        <member name="M:Presentation.IBusinessGridColumn`1.Dic``1(System.Linq.Expressions.Expression{System.Func{`0,``0}},System.String)">
+            <summary>
+            字典控件
+            </summary>
+            <typeparam name="TProperty">属性类型</typeparam>
+            <param name="expression">属性表达式</param>
+            <param name="code">字典编码</param>
+        </member>
+        <member name="M:Presentation.IBusinessGridColumn`1.Icon``1(System.Linq.Expressions.Expression{System.Func{`0,``0}},System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            图标控件
+            </summary>
+            <typeparam name="TProperty">属性类型</typeparam>
+            <param name="expression">属性表达式</param>
+            <param name="dialogWidth">选择图标窗口宽度</param>
+            <param name="dialogHeight">选择图标窗口高度</param>
+        </member>
+        <member name="M:Presentation.IBusinessGridColumn`1.Application``1(System.Linq.Expressions.Expression{System.Func{`0,``0}})">
+            <summary>
+            应用程序控件
+            </summary>
+            <typeparam name="TProperty">属性类型</typeparam>
+            <param name="expression">属性表达式</param>
+        </member>
+        <member name="M:Presentation.GridColumns.BusinessGridColumn`1.Application``1(System.Linq.Expressions.Expression{System.Func{`0,``0}})">
+            <summary>
+            应用程序控件
+            </summary>
+            <typeparam name="TProperty">属性类型</typeparam>
+            <param name="expression">属性表达式</param>
+        </member>
+        <member name="M:Presentation.GridColumns.BusinessGridColumn`1.Dic``1(System.Linq.Expressions.Expression{System.Func{`0,``0}},System.String)">
+            <summary>
+            字典控件
+            </summary>
+            <param name="expression">属性表达式</param>
+            <param name="code">字典编码</param>
+        </member>
+        <member name="M:Presentation.GridColumns.BusinessGridColumn`1.Icon``1(System.Linq.Expressions.Expression{System.Func{`0,``0}},System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            图标控件
+            </summary>
+            <typeparam name="TProperty">属性类型</typeparam>
+            <param name="expression">属性表达式</param>
+            <param name="dialogWidth">选择图标窗口宽度</param>
+            <param name="dialogHeight">选择图标窗口高度</param>
+        </member>
+        <member name="M:Presentation.GridColumns.BusinessGridColumn`1.CreateLookupOption(System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            创建查找带回配置项
+            </summary>
+        </member>
+        <member name="M:Presentation.GridColumns.BusinessGridColumn`1.#ctor(System.Web.Mvc.HtmlHelper{`0})">
+            <summary>
+            初始化表格列业务控件
+            </summary>
+            <param name="helper">HtmlHelper</param>
+        </member>
+        <member name="F:Presentation.GridColumns.BusinessGridColumn`1._helper">
+            <summary>
+            HtmlHelper
+            </summary>
+        </member>
+        <member name="T:Presentation.Commons.AreaControl`1">
+            <summary>
+            地区控件
+            </summary>
+        </member>
+        <member name="T:Presentation.Commons.IAreaControl`1">
+            <summary>
+            地区控件
+            </summary>
+        </member>
+        <member name="M:Presentation.Commons.IAreaControl`1.Province(System.String,System.String,System.String,System.String)">
+            <summary>
+            显示省份列表
+            </summary>
+            <param name="name">省份控件name</param>
+            <param name="value">省份地区Id</param>
+            <param name="hiddenName">省份名称hidden控件name</param>
+            <param name="text">省份显示的文本</param>
+        </member>
+        <member name="M:Presentation.Commons.IAreaControl`1.City(System.String,System.String,System.String,System.String)">
+            <summary>
+            显示城市列表
+            </summary>
+            <param name="name">城市控件name</param>
+            <param name="value">城市地区Id</param>
+            <param name="hiddenName">城市名称hidden控件name</param>
+            <param name="text">城市显示的文本</param>
+        </member>
+        <member name="M:Presentation.Commons.IAreaControl`1.County(System.String,System.String,System.String,System.String)">
+            <summary>
+            显示区县列表
+            </summary>
+            <param name="name">区县控件name</param>
+            <param name="value">区县地区Id</param>
+            <param name="hiddenName">区县名称hidden控件name</param>
+            <param name="text">区县显示的文本</param>
+        </member>
+        <member name="M:Presentation.Commons.IAreaControl`1.Province``1(System.Linq.Expressions.Expression{System.Func{`0,``0}},System.Linq.Expressions.Expression{System.Func{`0,System.String}})">
+            <summary>
+            显示省份列表
+            </summary>
+            <param name="expressionAreaId">省份Id表达式</param>
+            <param name="expressionAreaName">省份名称表达式</param>
+        </member>
+        <member name="M:Presentation.Commons.IAreaControl`1.City``1(System.Linq.Expressions.Expression{System.Func{`0,``0}},System.Linq.Expressions.Expression{System.Func{`0,System.String}})">
+            <summary>
+            显示城市列表
+            </summary>
+            <param name="expressionAreaId">城市Id表达式</param>
+            <param name="expressionAreaName">城市名称表达式</param>
+        </member>
+        <member name="M:Presentation.Commons.IAreaControl`1.County``1(System.Linq.Expressions.Expression{System.Func{`0,``0}},System.Linq.Expressions.Expression{System.Func{`0,System.String}})">
+            <summary>
+            显示区县列表
+            </summary>
+            <param name="expressionAreaId">区县Id表达式</param>
+            <param name="expressionAreaName">区县名称表达式</param>
+        </member>
+        <member name="F:Presentation.Commons.AreaControl`1.Url">
+            <summary>
+            远程Url
+            </summary>
+        </member>
+        <member name="F:Presentation.Commons.AreaControl`1.Height">
+            <summary>
+            控件下拉框高度
+            </summary>
+        </member>
+        <member name="F:Presentation.Commons.AreaControl`1.Width">
+            <summary>
+            控件宽度
+            </summary>
+        </member>
+        <member name="M:Presentation.Commons.AreaControl`1.#ctor(System.Web.Mvc.HtmlHelper{`0})">
+            <summary>
+            初始化地区控件
+            </summary>
+            <param name="helper">HtmlHelper</param>
+        </member>
+        <member name="F:Presentation.Commons.AreaControl`1._helper">
+            <summary>
+            HtmlHelper
+            </summary>
+        </member>
+        <member name="M:Presentation.Commons.AreaControl`1.Province(System.String,System.String,System.String,System.String)">
+            <summary>
+            显示省份列表
+            </summary>
+            <param name="name">省份控件name</param>
+            <param name="value">省份地区Id</param>
+            <param name="hiddenName">省份名称hidden控件name</param>
+            <param name="text">省份显示的文本</param>
+        </member>
+        <member name="M:Presentation.Commons.AreaControl`1.City(System.String,System.String,System.String,System.String)">
+            <summary>
+            显示城市列表
+            </summary>
+            <param name="name">城市控件name</param>
+            <param name="value">城市地区Id</param>
+            <param name="hiddenName">城市名称hidden控件name</param>
+            <param name="text">城市显示的文本</param>
+        </member>
+        <member name="M:Presentation.Commons.AreaControl`1.County(System.String,System.String,System.String,System.String)">
+            <summary>
+            显示区县列表
+            </summary>
+            <param name="name">区县控件name</param>
+            <param name="value">区县地区Id</param>
+            <param name="hiddenName">区县名称hidden控件name</param>
+            <param name="text">区县显示的文本</param>
+        </member>
+        <member name="M:Presentation.Commons.AreaControl`1.Province``1(System.Linq.Expressions.Expression{System.Func{`0,``0}},System.Linq.Expressions.Expression{System.Func{`0,System.String}})">
+            <summary>
+            显示省份列表
+            </summary>
+            <param name="expressionAreaId">省份Id表达式</param>
+            <param name="expressionAreaName">省份名称表达式</param>
+        </member>
+        <member name="M:Presentation.Commons.AreaControl`1.Operation``1(System.Func{System.String,System.String,System.String,System.String,Util.Webs.EasyUi.Forms.Comboxs.ICombox},System.Linq.Expressions.Expression{System.Func{`0,``0}},System.Linq.Expressions.Expression{System.Func{`0,System.String}})">
+            <summary>
+            操作
+            </summary>
+        </member>
+        <member name="M:Presentation.Commons.AreaControl`1.City``1(System.Linq.Expressions.Expression{System.Func{`0,``0}},System.Linq.Expressions.Expression{System.Func{`0,System.String}})">
+            <summary>
+            显示城市列表
+            </summary>
+            <param name="expressionAreaId">城市Id表达式</param>
+            <param name="expressionAreaName">城市名称表达式</param>
+        </member>
+        <member name="M:Presentation.Commons.AreaControl`1.County``1(System.Linq.Expressions.Expression{System.Func{`0,``0}},System.Linq.Expressions.Expression{System.Func{`0,System.String}})">
+            <summary>
+            显示区县列表
+            </summary>
+            <param name="expressionAreaId">区县Id表达式</param>
+            <param name="expressionAreaName">区县名称表达式</param>
+        </member>
+        <member name="T:Presentation.HtmlHelperExtension">
+            <summary>
+            HtmlHelper扩展
+            </summary>
+        </member>
+        <member name="M:Presentation.HtmlHelperExtension.Ui``1(System.Web.Mvc.HtmlHelper{``0})">
+            <summary>
+            业务控件
+            </summary>
+        </member>
+    </members>
+</doc>
