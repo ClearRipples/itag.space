@@ -4,3 +4,9 @@ D:\Book\Action\Util\Framework\Release\Util.Datas.SqlServer.pdb
 D:\Book\Action\Util\Framework\Util\Util.Datas.SqlServer\obj\Debug\04-Util.Datas.SqlServer.csprojResolveAssemblyReference.cache
 D:\Book\Action\Util\Framework\Util\Util.Datas.SqlServer\obj\Debug\Util.Datas.SqlServer.dll
 D:\Book\Action\Util\Framework\Util\Util.Datas.SqlServer\obj\Debug\Util.Datas.SqlServer.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Datas.SqlServer.XML
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Datas.SqlServer.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Datas.SqlServer.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Datas.SqlServer\obj\Debug\04-Util.Datas.SqlServer.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Datas.SqlServer\obj\Debug\Util.Datas.SqlServer.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Datas.SqlServer\obj\Debug\Util.Datas.SqlServer.pdb

@@ -4,3 +4,9 @@ E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applica
 E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Datas.Ef\obj\Debug\02-Applications.Datas.Ef.csprojResolveAssemblyReference.cache
 E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Datas.Ef\obj\Debug\Applications.Datas.Ef.dll
 E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Datas.Ef\obj\Debug\Applications.Datas.Ef.pdb
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Datas.Ef.XML
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Datas.Ef.dll
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Datas.Ef.pdb
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Datas.Ef\obj\Debug\02-Applications.Datas.Ef.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Datas.Ef\obj\Debug\Applications.Datas.Ef.dll
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Datas.Ef\obj\Debug\Applications.Datas.Ef.pdb

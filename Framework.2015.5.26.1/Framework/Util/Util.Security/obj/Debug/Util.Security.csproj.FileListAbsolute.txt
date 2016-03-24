@@ -14,3 +14,9 @@ D:\Book\Action\Util\Framework\Release\Util.Security.pdb
 D:\Book\Action\Util\Framework\Util\Util.Security\obj\Debug\Util.Security.dll
 D:\Book\Action\Util\Framework\Util\Util.Security\obj\Debug\Util.Security.pdb
 D:\Book\Action\Util\Framework\Util\Util.Security\obj\Debug\Util.Security.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Security.XML
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Security.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Security.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Security\obj\Debug\Util.Security.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Security\obj\Debug\Util.Security.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Security\obj\Debug\Util.Security.pdb

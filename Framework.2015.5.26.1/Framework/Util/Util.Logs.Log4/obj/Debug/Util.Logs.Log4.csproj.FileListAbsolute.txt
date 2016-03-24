@@ -4,3 +4,9 @@ D:\Book\Action\Util\Framework\Release\log4net.pdb
 D:\Book\Action\Util\Framework\Util\Util.Logs.Log4\obj\Debug\Util.Logs.Log4.csprojResolveAssemblyReference.cache
 D:\Book\Action\Util\Framework\Util\Util.Logs.Log4\obj\Debug\log4net.dll
 D:\Book\Action\Util\Framework\Util\Util.Logs.Log4\obj\Debug\log4net.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\log4net.XML
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\log4net.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\log4net.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Logs.Log4\obj\Debug\Util.Logs.Log4.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Logs.Log4\obj\Debug\log4net.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Logs.Log4\obj\Debug\log4net.pdb

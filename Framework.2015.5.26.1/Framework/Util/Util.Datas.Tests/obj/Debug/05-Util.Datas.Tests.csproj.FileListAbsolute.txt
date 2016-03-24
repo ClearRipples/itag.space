@@ -3,3 +3,8 @@ D:\Book\Action\Util\Framework\Util\Util.Datas.Tests\obj\Debug\Util.Datas.Tests.d
 D:\Book\Action\Util\Framework\Util\Util.Datas.Tests\obj\Debug\Util.Datas.Tests.pdb
 D:\Book\Action\Util\Framework\TestBin\Util.Datas.Tests.dll
 D:\Book\Action\Util\Framework\TestBin\Util.Datas.Tests.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\TestBin\Util.Datas.Tests.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\TestBin\Util.Datas.Tests.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Datas.Tests\obj\Debug\05-Util.Datas.Tests.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Datas.Tests\obj\Debug\Util.Datas.Tests.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Datas.Tests\obj\Debug\Util.Datas.Tests.pdb

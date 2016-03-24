@@ -10,3 +10,9 @@ D:\Book\Action\Util\Framework\Release\Util.Datas.MySql.pdb
 D:\Book\Action\Util\Framework\Util\Util.Datas.MySql\obj\Debug\05-Util.Datas.MySql.csprojResolveAssemblyReference.cache
 D:\Book\Action\Util\Framework\Util\Util.Datas.MySql\obj\Debug\Util.Datas.MySql.dll
 D:\Book\Action\Util\Framework\Util\Util.Datas.MySql\obj\Debug\Util.Datas.MySql.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Datas.MySql.XML
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Datas.MySql.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Datas.MySql.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Datas.MySql\obj\Debug\05-Util.Datas.MySql.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Datas.MySql\obj\Debug\Util.Datas.MySql.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Datas.MySql\obj\Debug\Util.Datas.MySql.pdb

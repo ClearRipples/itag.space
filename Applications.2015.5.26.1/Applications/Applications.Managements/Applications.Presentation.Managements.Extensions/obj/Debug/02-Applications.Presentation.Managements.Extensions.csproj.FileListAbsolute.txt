@@ -3,3 +3,9 @@ E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applica
 E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Presentation.Managements.Extensions.pdb
 E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Presentation.Managements.Extensions\obj\Debug\Applications.Presentation.Managements.Extensions.dll
 E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Presentation.Managements.Extensions\obj\Debug\Applications.Presentation.Managements.Extensions.pdb
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Presentation.Managements.Extensions.xml
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Presentation.Managements.Extensions.dll
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Presentation.Managements.Extensions.pdb
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Presentation.Managements.Extensions\obj\Debug\02-Applications.Presentation.Managements.Extensions.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Presentation.Managements.Extensions\obj\Debug\Applications.Presentation.Managements.Extensions.dll
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Presentation.Managements.Extensions\obj\Debug\Applications.Presentation.Managements.Extensions.pdb

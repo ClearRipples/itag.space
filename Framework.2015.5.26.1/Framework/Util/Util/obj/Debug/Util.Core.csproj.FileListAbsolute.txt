@@ -7,3 +7,12 @@ D:\Book\Action\Util\Framework\Util\Util\obj\Debug\Util.Validations.DataAnnotatio
 D:\Book\Action\Util\Framework\Util\Util\obj\Debug\Util.Core.csproj.GenerateResource.Cache
 D:\Book\Action\Util\Framework\Util\Util\obj\Debug\Util.Core.dll
 D:\Book\Action\Util\Framework\Util\Util\obj\Debug\Util.Core.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Core.xml
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Core.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Core.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util\obj\Debug\Util.Core.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util\obj\Debug\Util.R.resources
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util\obj\Debug\Util.Validations.DataAnnotations.ValidatorResources.resources
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util\obj\Debug\Util.Core.csproj.GenerateResource.Cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util\obj\Debug\Util.Core.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util\obj\Debug\Util.Core.pdb

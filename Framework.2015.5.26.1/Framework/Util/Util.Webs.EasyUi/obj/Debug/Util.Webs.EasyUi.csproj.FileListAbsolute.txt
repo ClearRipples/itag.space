@@ -16,3 +16,9 @@ D:\Book\Action\Util\Framework\Release\Util.Webs.EasyUi.pdb
 D:\Book\Action\Util\Framework\Util\Util.Webs.EasyUi\obj\Debug\Util.Webs.EasyUi.csprojResolveAssemblyReference.cache
 D:\Book\Action\Util\Framework\Util\Util.Webs.EasyUi\obj\Debug\Util.Webs.EasyUi.dll
 D:\Book\Action\Util\Framework\Util\Util.Webs.EasyUi\obj\Debug\Util.Webs.EasyUi.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Webs.EasyUi.XML
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Webs.EasyUi.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Webs.EasyUi.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Webs.EasyUi\obj\Debug\Util.Webs.EasyUi.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Webs.EasyUi\obj\Debug\Util.Webs.EasyUi.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Webs.EasyUi\obj\Debug\Util.Webs.EasyUi.pdb

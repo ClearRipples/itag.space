@@ -5,3 +5,8 @@ D:\Book\Action\Util\Framework\Util\Util.ApplicationServices.Tests\obj\Debug\Util
 D:\Book\Action\Util\Framework\Util\Util.ApplicationServices.Tests\obj\Debug\Util.ApplicationServices.Tests.pdb
 D:\Book\Action\Util\Framework\TestBin\Util.ApplicationServices.Tests.dll
 D:\Book\Action\Util\Framework\TestBin\Util.ApplicationServices.Tests.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\TestBin\Util.ApplicationServices.Tests.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\TestBin\Util.ApplicationServices.Tests.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.ApplicationServices.Tests\obj\Debug\06-Util.ApplicationServices.Tests.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.ApplicationServices.Tests\obj\Debug\Util.ApplicationServices.Tests.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.ApplicationServices.Tests\obj\Debug\Util.ApplicationServices.Tests.pdb

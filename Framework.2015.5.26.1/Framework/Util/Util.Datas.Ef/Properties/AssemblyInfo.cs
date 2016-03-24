@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Util.Datas.Ef")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany( "何镇汐" )]
+[assembly: AssemblyCompany("梁洪波")]
 [assembly: AssemblyProduct("Util.Datas.Ef")]
-[assembly: AssemblyCopyright( "Copyright © 何镇汐 2014" )]
+[assembly: AssemblyCopyright("版权所有(C) 梁洪波 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

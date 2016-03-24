@@ -8,3 +8,10 @@ E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applica
 E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Domains.Configs\obj\Debug\03-Applications.Domains.Configs.csproj.GenerateResource.Cache
 E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Domains.Configs\obj\Debug\Applications.Domains.Configs.dll
 E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Domains.Configs\obj\Debug\Applications.Domains.Configs.pdb
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Domains.Configs.XML
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Domains.Configs.dll
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Domains.Configs.pdb
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Domains.Configs\obj\Debug\Applications.Domains.Configs.ConfigResource.resources
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Domains.Configs\obj\Debug\03-Applications.Domains.Configs.csproj.GenerateResource.Cache
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Domains.Configs\obj\Debug\Applications.Domains.Configs.dll
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Domains.Configs\obj\Debug\Applications.Domains.Configs.pdb

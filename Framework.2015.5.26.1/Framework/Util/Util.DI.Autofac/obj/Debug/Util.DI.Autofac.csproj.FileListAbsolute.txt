@@ -15,3 +15,9 @@ D:\Book\Action\Util\Framework\Release\Util.DI.Autofac.pdb
 D:\Book\Action\Util\Framework\Util\Util.DI.Autofac\obj\Debug\Util.DI.Autofac.dll
 D:\Book\Action\Util\Framework\Util\Util.DI.Autofac\obj\Debug\Util.DI.Autofac.pdb
 D:\Book\Action\Util\Framework\Util\Util.DI.Autofac\obj\Debug\Util.DI.Autofac.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.DI.Autofac.XML
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.DI.Autofac.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.DI.Autofac.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.DI.Autofac\obj\Debug\Util.DI.Autofac.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.DI.Autofac\obj\Debug\Util.DI.Autofac.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.DI.Autofac\obj\Debug\Util.DI.Autofac.pdb

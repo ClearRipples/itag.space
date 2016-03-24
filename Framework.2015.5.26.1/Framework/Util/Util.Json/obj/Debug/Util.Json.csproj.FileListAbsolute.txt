@@ -9,3 +9,8 @@ D:\Book\Action\Util\Framework\Release\Util.Json.pdb
 D:\Book\Action\Util\Framework\Util\Util.Json\obj\Debug\Util.Json.dll
 D:\Book\Action\Util\Framework\Util\Util.Json\obj\Debug\Util.Json.pdb
 D:\Book\Action\Util\Framework\Util\Util.Json\obj\Debug\Util.Json.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Json\obj\Debug\Util.Json.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Json\obj\Debug\Util.Json.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Json.XML
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Json.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Json.pdb

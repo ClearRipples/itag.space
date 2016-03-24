@@ -6,3 +6,11 @@ D:\Book\Action\Util\Framework\Util\Util.Datas.Sql\obj\Debug\Util.Datas.Sql.SqlRe
 D:\Book\Action\Util\Framework\Util\Util.Datas.Sql\obj\Debug\02-Util.Datas.Sql.csproj.GenerateResource.Cache
 D:\Book\Action\Util\Framework\Util\Util.Datas.Sql\obj\Debug\Util.Datas.Sql.dll
 D:\Book\Action\Util\Framework\Util\Util.Datas.Sql\obj\Debug\Util.Datas.Sql.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Datas.Sql.XML
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Datas.Sql.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Datas.Sql.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Datas.Sql\obj\Debug\02-Util.Datas.Sql.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Datas.Sql\obj\Debug\Util.Datas.Sql.SqlResource.resources
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Datas.Sql\obj\Debug\02-Util.Datas.Sql.csproj.GenerateResource.Cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Datas.Sql\obj\Debug\Util.Datas.Sql.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Datas.Sql\obj\Debug\Util.Datas.Sql.pdb

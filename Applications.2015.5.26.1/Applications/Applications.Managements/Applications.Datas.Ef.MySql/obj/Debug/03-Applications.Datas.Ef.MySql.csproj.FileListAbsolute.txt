@@ -9,3 +9,9 @@ E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applica
 E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Datas.Ef.MySql.pdb
 E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Datas.Ef.MySql\obj\Debug\Applications.Datas.Ef.MySql.dll
 E:\项目演练\应用程序框架\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Datas.Ef.MySql\obj\Debug\Applications.Datas.Ef.MySql.pdb
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Datas.Ef.MySql.XML
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Datas.Ef.MySql.dll
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Release\Applications.Datas.Ef.MySql.pdb
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Datas.Ef.MySql\obj\Debug\03-Applications.Datas.Ef.MySql.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Datas.Ef.MySql\obj\Debug\Applications.Datas.Ef.MySql.dll
+E:\项目演练\itag.space\Applications.2015.5.26.1\Applications\Applications.Managements\Applications.Datas.Ef.MySql\obj\Debug\Applications.Datas.Ef.MySql.pdb

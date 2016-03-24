@@ -31,3 +31,11 @@ D:\Book\Action\Util\Framework\Release\Util.Domains.dll
 D:\Book\Action\Util\Framework\Release\Util.Domains.pdb
 D:\Book\Action\Util\Framework\Util\Util.Domains\obj\Debug\Util.Domains.dll
 D:\Book\Action\Util\Framework\Util\Util.Domains\obj\Debug\Util.Domains.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Domains.XML
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Domains.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.Domains.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Domains\obj\Debug\Util.Domains.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Domains\obj\Debug\Util.Domains.DomainResource.resources
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Domains\obj\Debug\Util.Domains.csproj.GenerateResource.Cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Domains\obj\Debug\Util.Domains.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.Domains\obj\Debug\Util.Domains.pdb

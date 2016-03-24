@@ -16,3 +16,9 @@ D:\Book\Action\Util\Framework\Release\Util.ApplicationServices.dll
 D:\Book\Action\Util\Framework\Release\Util.ApplicationServices.pdb
 D:\Book\Action\Util\Framework\Util\Util.ApplicationServices\obj\Debug\Util.ApplicationServices.dll
 D:\Book\Action\Util\Framework\Util\Util.ApplicationServices\obj\Debug\Util.ApplicationServices.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.ApplicationServices.XML
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.ApplicationServices.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Release\Util.ApplicationServices.pdb
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.ApplicationServices\obj\Debug\Util.ApplicationServices.csprojResolveAssemblyReference.cache
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.ApplicationServices\obj\Debug\Util.ApplicationServices.dll
+E:\项目演练\itag.space\Framework.2015.5.26.1\Framework\Util\Util.ApplicationServices\obj\Debug\Util.ApplicationServices.pdb
